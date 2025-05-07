@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: il1713rio-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/il1713rio-java-quarkus
